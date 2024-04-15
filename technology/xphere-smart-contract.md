@@ -10,11 +10,11 @@ Satoshi Nakamoto demonstrated that with the combination of blockchain and proof 
 
 
 
-<figure><img src="../.gitbook/assets/Group 48096328.png" alt=""><figcaption><p>Xphere Smart Contract Structure Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_02.png" alt=""><figcaption><p>Xphere Smart Contract Structure Diagram</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Group 48096329.png" alt=""><figcaption><p>Xphere Smart Contract Structure Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_03.png" alt=""><figcaption><p>Xphere Smart Contract Structure Diagram</p></figcaption></figure>
 
 
 
