@@ -40,7 +40,7 @@ Data anchoring is a solution to detect changes in data of a specific blockchain.
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/Group 48096354.png" alt="" width="317"><figcaption><p>Data Anchoring Structure Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 48096354.png" alt=""><figcaption><p>Data Anchoring Structure Diagram</p></figcaption></figure>
 
 </div>
 
