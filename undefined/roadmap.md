@@ -8,13 +8,11 @@ To achieve this, initial Xphere will operate as a single blockchain utilizing th
 
 
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+<table><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-type="checkbox"></th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td align="center"></td><td>false</td></tr><tr><td align="center"><p>Dual-Chain</p><p>Public Blockchain</p><p>(~2024. 12)</p></td><td align="center"><p>Partial Access</p><p>Triple-Chain Public BLockchain</p><p>(~2025. 12)</p></td><td align="center"><p>Complete Access</p><p>Triple-Chain Public Blockchain</p><p>(2026. 01~)</p></td><td>false</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td>false</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td>false</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td>false</td></tr></tbody></table>
 
 
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Independent Mainnet</td><td><p>Public Blockchain</p><p></p><p>--- </p><p></p><p>Prioritize Ecosystem Construction</p></td><td><p>Validator Enterprise Participation</p><p>Validator Enterprise Participation</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 
 

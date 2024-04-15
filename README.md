@@ -1,5 +1,7 @@
 # Introduction
 
+<figure><img src=".gitbook/assets/kakao.png" alt=""><figcaption></figcaption></figure>
+
 ## Xphere Blockchain White-paper : Crafting the Future&#x20;
 
 ## Global WEB 3.0 Integrated Ecosystem
