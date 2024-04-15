@@ -1,6 +1,6 @@
 # Our Vision
 
-## Our Vision: Leading the Meta-Revolution of Digitalization and Globalization
+## Leading the Meta-Revolution of Digitalization and Globalization
 
 
 

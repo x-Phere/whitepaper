@@ -1,6 +1,6 @@
 # Initial Commercializing
 
-## Initial Commercializing (Xphere Mainnet Specs\_As of April 2024)
+## Xphere Mainnet Specs\_As of April 2024
 
 
 

@@ -1,8 +1,6 @@
 # Xphere Overview
 
-## Xphere Overview
-
-### Key Features of Xphere Blockchain
+## Key Features of Xphere Blockchain
 
 
 

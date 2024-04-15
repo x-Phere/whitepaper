@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Xphere](README.md)
+* [Introduction](README.md)
 * [Our Vision](introduction/our-vision.md)
 * [Xphere Overview](introduction/xphere-overview.md)
 * [Initial Commercializing](introduction/initial-commercializing.md)
@@ -22,10 +22,11 @@
 ## Token Economy
 
 * [XP](token-economy/xp.md)
+* [X-Booster](token-economy/x-booster.md)
 * [X-Guardians](token-economy/x-guardians.md)
 * [Xphere Fund](token-economy/xphere-fund.md)
 
-***
+## &#x20;
 
-* [Roadmap](roadmap.md)
-* [Disclaimer](disclaimer.md)
+* [Roadmap](undefined/roadmap.md)
+* [Disclaimer](undefined/disclaimer.md)

@@ -1,4 +1,4 @@
-# Xphere
+# Introduction
 
 ## Xphere Blockchain White-paper : Crafting the Future&#x20;
 
