@@ -6,8 +6,6 @@ Traditional blockchain structures, which rely solely on validators, have posed s
 
 
 
-
-
 1.  **Resource Chain Network**&#x20;
 
     The Resource Chain plays a crucial role in pre-selecting validators through proof-of-work. Nodes that successfully mine receive minor incentives and are subsequently selected as the next validators. These incentives, referred to as "resources," are converted into Xphere (XP) coins through a refinement process. Operating separately from the main chain, the Resource Chain streamlines block creation and transaction settlement times by segregating the mining, validator selection, and block generation processes.
@@ -20,7 +18,7 @@ Traditional blockchain structures, which rely solely on validators, have posed s
 
 
 
-<figure><img src="../.gitbook/assets/Group 48096350.png" alt=""><figcaption><p>X-Chain Network Structure Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_01.png" alt=""><figcaption><p>X-Chain Network Structure Diagram</p></figcaption></figure>
 
 
 
