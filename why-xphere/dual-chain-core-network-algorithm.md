@@ -12,11 +12,16 @@ The algorithmic approach of relying solely on validators presents significant ri
 
 ### Dual Chain Block Generation Process
 
-1. Mining Incentives and Validator Selection: Users who succeed in mining receive incentives and are selected as validators for the next block. This encourages network participation and plays a vital role in verifying transaction accuracy. &#x20;
-2. Transaction Processing and Main Block Generation: Validators process transactions occurring in the network and create the main block containing them. They can acquire greater incentives during this process. &#x20;
-3. Synchronization of Resource Chain and Main Chain: Network participants synchronize the Resource Chain based on the longest resource block, which serves as the basis for synchronizing the Main Chain. This ensures consistency between the two major chains and enhances the completeness of swift transaction registration through the handling of temporary block data. &#x20;
-4. Handling of Temporary Block Data: Block data not recorded in the Main Chain is temporarily considered provisional, ensuring the completeness of swift transaction registration unless a separate branch is observed. &#x20;
-5. Synchronization and Consensus Mechanism: ChainMaker manages synchronization with other nodes in the network and maintains network consistency through the consensus process when necessary.
+1. **Mining Incentives and Validator Selection**\
+   Users who succeed in mining receive incentives and are selected as validators for the next block. This encourages network participation and plays a vital role in verifying transaction accuracy. &#x20;
+2. **Transaction Processing and Main Block Generation**\
+   Validators process transactions occurring in the network and create the main block containing them. They can acquire greater incentives during this process. &#x20;
+3. **Synchronization of Resource Chain and Main Chain**\
+   Network participants synchronize the Resource Chain based on the longest resource block, which serves as the basis for synchronizing the Main Chain. This ensures consistency between the two major chains and enhances the completeness of swift transaction registration through the handling of temporary block data. &#x20;
+4. **Handling of Temporary Block Data**\
+   Block data not recorded in the Main Chain is temporarily considered provisional, ensuring the completeness of swift transaction registration unless a separate branch is observed. &#x20;
+5. **Synchronization and Consensus Mechanism**\
+   ChainMaker manages synchronization with other nodes in the network and maintains network consistency through the consensus process when necessary.
 
 
 

@@ -12,6 +12,7 @@
 * [Why Xphere?](why-xphere/why-xphere.md)
 * [X-Chain Network](why-xphere/x-chain-network.md)
 * [Dual Chain Core Network Algorithm](why-xphere/dual-chain-core-network-algorithm.md)
+* [Hypothesis Acceptance Procedure(HAP)](why-xphere/hypothesis-acceptance-procedure-hap.md)
 
 ## Technology
 
