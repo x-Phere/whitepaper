@@ -22,11 +22,7 @@ The connection method between service chains and the main chain will be determin
 
 
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Group 48096353.png" alt=""><figcaption><p>Service Chain Structure Diagram</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/img_06.png" alt=""><figcaption><p>Service Chain Structure Diagram</p></figcaption></figure>
 
 
 
@@ -38,13 +34,7 @@ Data anchoring is a solution to detect changes in data of a specific blockchain.
 
 
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Group 48096354.png" alt=""><figcaption><p>Data Anchoring Structure Diagram</p></figcaption></figure>
-
-</div>
-
-
+<figure><img src="../.gitbook/assets/img_07.png" alt=""><figcaption><p>Data Anchoring Structure Diagram</p></figcaption></figure>
 
 
 

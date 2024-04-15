@@ -22,11 +22,11 @@ By combining receipts with cross-chain transaction technology, proof generation 
 
 
 
-<figure><img src="../.gitbook/assets/Group 48096351.png" alt=""><figcaption><p>Cross-Chain Transaction Structure Diagram</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_04.png" alt=""><figcaption><p>Cross-Chain Transaction Structure Diagram</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/img_05.png" alt=""><figcaption><p>Cross-Chain Transaction Structure Diagram</p></figcaption></figure>
 
 
-
-<figure><img src="../.gitbook/assets/Group 48096352.png" alt=""><figcaption><p>Cross-Chain Transaction Structure Diagram</p></figcaption></figure>
 
 
 

@@ -12,7 +12,7 @@ XP Coin is the primary internal cryptocurrency that can be transferred within Xp
 
 
 
-<figure><img src="../.gitbook/assets/XP Mining 그래프 1.png" alt=""><figcaption><p>XP Mining Graph</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_08.png" alt=""><figcaption><p>XP Mining Graph</p></figcaption></figure>
 
 
 
