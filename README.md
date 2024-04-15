@@ -24,10 +24,16 @@ Xphere prioritizes the practical usability of blockchain technology. Our goal is
 
 
 
-1. User-Centric Design: Xphere aims to provide a platform that users can intuitively understand and use, thereby transforming blockchain technology into an everyday tool.&#x20;
-2. Real-World Applications: Our project focuses on applying blockchain technology to real-world problems, such as supply chain, education, healthcare, government, etc.&#x20;
-3. Scalability and Performance: We research and implement various technological solutions to enhance scalability and performance, ensuring that the network can meet the performance demands of large-scale users and guarantee scalability.&#x20;
-4. Collaboration and Ecosystem Building: Through collaboration with various stakeholders, our project aims to build and expand the blockchain ecosystem. By fostering collaboration with diverse stakeholders, we create a robust blockchain ecosystem and promote the practical utilization of technology through collaboration in technology, business models, and regulatory aspects.
+1. **User-Centric Design**\
+   Xphere aims to provide a platform that users can intuitively understand and use, thereby transforming blockchain technology into an everyday tool.&#x20;
+2. **Real-World Applications**\
+   Our project focuses on applying blockchain technology to real-world problems, such as supply chain, education, healthcare, government, etc.&#x20;
+3. **Scalability and Performance**\
+   We research and implement various technological solutions to enhance scalability and performance, ensuring that the network can meet the performance demands of large-scale users and guarantee scalability.&#x20;
+4. **Collaboration and Ecosystem Building**\
+   Through collaboration with various stakeholders, our project aims to build and expand the blockchain ecosystem. By fostering collaboration with diverse stakeholders, we create a robust blockchain ecosystem and promote the practical utilization of technology through collaboration in technology, business models, and regulatory aspects.
+
+
 
 
 

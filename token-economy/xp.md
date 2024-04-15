@@ -30,11 +30,12 @@ Xphere's token economy is designed to allow a wide range of participants to cont
 
 Xphere's funding structure will operate continuously alongside the creation of the Xphere network's genesis block. The total XP issued in each new block, along with the sum of transaction fees used in the blocks, will be aggregated and distributed to designated accounts according to predetermined ratios.&#x20;
 
-(1) Ecosystem (50%): The largest portion of token allocation will be allocated to strategic partnerships with venture capital (VC), alliances, and distributed application (dApp) projects to promote ecosystem growth. This fund is critical in supporting and promoting innovative applications and services that enhance the utility of the Xphere blockchain.&#x20;
-
-(2) Foundation (30%): These tokens will support fundamental aspects of Xphere operations, including research and development, network operations, strategic reserves, and funding for new technology initiatives that support a broader ecosystem.&#x20;
-
-(3) Marketing and Community (20%): This allocation supports marketing efforts and community engagement initiatives aimed at building a strong user base, enhancing brand visibility, and facilitating global outreach to potential users and developers.
+1. **Ecosystem (50%)**\
+   The largest portion of token allocation will be allocated to strategic partnerships with venture capital (VC), alliances, and distributed application (dApp) projects to promote ecosystem growth. This fund is critical in supporting and promoting innovative applications and services that enhance the utility of the Xphere blockchain.&#x20;
+2. **Foundation (30%)**\
+   These tokens will support fundamental aspects of Xphere operations, including research and development, network operations, strategic reserves, and funding for new technology initiatives that support a broader ecosystem.&#x20;
+3. **Marketing and Community (20%)**\
+   This allocation supports marketing efforts and community engagement initiatives aimed at building a strong user base, enhancing brand visibility, and facilitating global outreach to potential users and developers.
 
 
 

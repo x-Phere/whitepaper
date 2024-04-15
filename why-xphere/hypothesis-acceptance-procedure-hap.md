@@ -27,9 +27,7 @@ Xphere's Hypothesis Acceptance Procedure opens up new possibilities in blockchai
 
 
 
-### Hypothesis Acceptance Procedure(HAP) Structural Diagram
-
-<figure><img src="../.gitbook/assets/hap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/hap.png" alt=""><figcaption><p>Hypothesis Acceptance Procedure(HAP) Structural Diagram</p></figcaption></figure>
 
 
 
