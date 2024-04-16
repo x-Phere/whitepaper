@@ -8,7 +8,7 @@ XP Coin is the primary internal cryptocurrency that can be transferred within Xp
 
 ### Xphere (XP) Coin Overview
 
-<table data-full-width="true"><thead><tr><th width="223">Category</th><th>Content</th><th data-hidden></th></tr></thead><tbody><tr><td>Project Name</td><td>Xphere</td><td></td></tr><tr><td>Ticker</td><td>XP</td><td></td></tr><tr><td>Consensus Method</td><td>HAP (PoW + Dual Chain Core Network Algorithm)</td><td></td></tr><tr><td>Total Supply</td><td>5,500,000,000 (55 billion, mining period of 100 years)</td><td></td></tr><tr><td>Launch Date</td><td>March 2024</td><td></td></tr><tr><td>Halving Rule</td><td>Approximately every 4 years (18% decrease annually)</td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="223">Category</th><th>Content</th><th data-hidden></th></tr></thead><tbody><tr><td>Project Name</td><td>Xphere</td><td></td></tr><tr><td>Ticker</td><td>XP</td><td></td></tr><tr><td>Consensus Method</td><td>HAP (PoW + Dual Chain Core Network Algorithm)</td><td></td></tr><tr><td>Total Supply</td><td>5,500,000,000 (5.5 billion, mining period of 100 years)</td><td></td></tr><tr><td>Launch Date</td><td>March 2024</td><td></td></tr><tr><td>Halving Rule</td><td>Approximately every 4 years (18% decrease annually)</td><td></td></tr></tbody></table>
 
 
 
