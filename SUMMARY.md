@@ -20,12 +20,12 @@
 * [Cross-Chain Transaction](technology/cross-chain-transaction.md)
 * [Service Chain](technology/service-chain.md)
 
-## Token Economy
+## Economy
 
-* [XP](token-economy/xp.md)
-* [X-Booster](token-economy/x-booster.md)
-* [X-Guardians](token-economy/x-guardians.md)
-* [Xphere Fund](token-economy/xphere-fund.md)
+* [XP](economy/xp.md)
+* [X-Booster](economy/x-booster.md)
+* [X-Guardians](economy/x-guardians.md)
+* [Xphere Fund](economy/xphere-fund.md)
 
 ## &#x20;
 
