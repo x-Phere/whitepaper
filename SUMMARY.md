@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Introduction](README.md)
+* [Xphere Whitepaper](README.md)
 * [Our Vision](introduction/our-vision.md)
 * [Xphere Overview](introduction/xphere-overview.md)
 * [Initial Commercializing](introduction/initial-commercializing.md)
