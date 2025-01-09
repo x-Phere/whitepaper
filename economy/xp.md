@@ -2,7 +2,7 @@
 
 ## Native Coin – XP Coin
 
-XP Coin is the primary internal cryptocurrency that can be transferred within Xphere. It is used to pay transaction fees when creating and executing smart contracts or transferring crypto assets. XP Coin plays an essential role as fuel to operate the mainnet network for the decentralized application called Xphere. The transaction fee for XP is 1018 peb.
+XP Coin is the primary internal cryptocurrency that can be transferred within Xphere. It is used to pay transaction fees when creating and executing smart contracts or transferring crypto assets. XP Coin plays an essential role as fuel to operate the mainnet network for the decentralized application called Xphere. The transaction fee for free
 
 
 
@@ -32,9 +32,9 @@ Xphere's funding structure will operate continuously alongside the creation of t
 
 1. **Ecosystem (50%)**\
    The largest portion of token allocation will be allocated to strategic partnerships with venture capital (VC), alliances, and distributed application (dApp) projects to promote ecosystem growth. This fund is critical in supporting and promoting innovative applications and services that enhance the utility of the Xphere blockchain.&#x20;
-2. **Foundation (30%)**\
+2. **Foundation (20%)**\
    These tokens will support fundamental aspects of Xphere operations, including research and development, network operations, strategic reserves, and funding for new technology initiatives that support a broader ecosystem.&#x20;
-3. **Marketing and Community (20%)**\
+3. **Marketing and Community (30%)**\
    This allocation supports marketing efforts and community engagement initiatives aimed at building a strong user base, enhancing brand visibility, and facilitating global outreach to potential users and developers.
 
 
